@@ -29,3 +29,4 @@ app/etc/local.xml
 /var/cache
 /skin/frontend/codazon_fastest/default/css/store/*
 /media/catalog/product/cache/*
+.vscode/
