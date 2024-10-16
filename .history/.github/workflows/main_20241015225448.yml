@@ -20,4 +20,4 @@ jobs:
         port: ${{ secrets.FTP_PORT }}
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: domains/crgr.com.br/public_html/
+        server-dir: /domains/crgr.com.br/public_html/
