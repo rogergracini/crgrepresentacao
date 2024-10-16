@@ -21,4 +21,4 @@ jobs:
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
         server-dir: domains/crgr.com.br/public_html/
-        local-dir: ./ # Diretório local que será sincronizado
+        
